@@ -1,0 +1,197 @@
+    1  git status
+    2  git add
+    3  git in it
+    4  git init
+    5  git init
+    6  git init
+    7  ls -al
+    8  ls .git
+    9  git status
+   10  git add file1
+   11  ls -all
+   12  touch file1
+   13  git status
+   14  touch file1
+   15  git add file1
+   16  git status
+   17  git commit .n 'file1'
+   18  git commit .n "file1"
+   19  git clean -file1
+   20  git commit-n "file1"
+   21  git commit -n "file1"
+   22  git status
+   23  git -m "file1"
+   24  git commit -m "file1"
+   25  git log
+   26  touch file2
+   27  git status
+   28  gt add file2
+   29  git add file2
+   30  git status
+   31  git status
+   32  git restore --staged file1
+   33  git restore --staged file2
+   34  git add *
+   35  git status
+   36  git commit -m "commited" file2
+   37  git commit -n "commited" file2
+   38  git commit -m "commited" file1
+   39  git restore file1
+   40  git restore file2
+   41  git log
+   42  git add *
+   43  git status
+   44  git commit -m "commited" file1
+   45  git commits -m "commited" file1
+   46  git --help
+   47  git rm
+   48  git rm file1
+   49  git rm "file1"
+   50  git diff file1
+   51  git status
+   52  git rm cached file2
+   53  git rm "commited" file1
+   54  git help -a
+   55  git log
+   56  git add *
+   57  git status
+   58  git commit -m "commited" *
+   59  vivid
+   60  git commit -m "Commited" file2
+   61  git restore file2
+   62  git satus
+   63  git log
+   64  git config-- list
+   65  git config --list
+   66  git add *
+   67  git status
+   68  git commit -m "comited"
+   69  touch file3
+   70  git init
+   71  git commit -m "first commit"
+   72  git config --global user.email "koye,sivasairam777@gmail.com"
+   73  git config --global user.name "sivasairam777"
+   74  git commit -m "first commit"
+   75  git add file3
+   76  git commit -m "first commit"
+   77  git branch -M main
+   78  git remote add origin https://github.com/sivasairam777/demo.git
+   79  git push -u origin main
+   80  git push -u origin main
+   81  git push -u origin main
+   82  git add
+   83  git init
+   84  git add file3
+   85  git commit -m "first commit"
+   86  touch file1
+   87  git init
+   88  git add *
+   89  git commit -m "first commit"
+   90  git branch -M main
+   91  git remote add origin https://github.com/sivasairam777/demo.git
+   92  git push -u origin main
+   93  git push -u origin main
+   94  git push -u origin main
+   95  git remote add origin https://github.com/sivasairam777/demo.git
+   96  git push -u origin main
+   97  touch file1
+   98  git init
+   99  git add *
+  100  git status
+  101  git commit -m "commit file1"
+  102  git status
+  103  git push 
+  104  vivid2@vivid2-PC MINGW64 ~/Desktop/demo
+  105  $ touch file1
+  106  vivid2@vivid2-PC MINGW64 ~/Desktop/demo
+  107  $ git init
+  108  Initialized empty Git repository in C:/Users/vivid2/Desktop/demo/.git/
+  109  vivid2@vivid2-PC MINGW64 ~/Desktop/demo (master)
+  110  $ git add *
+  111  vivid2@vivid2-PC MINGW64 ~/Desktop/demo (master)
+  112  $ git status
+  113  On branch master
+  114  No commits yet
+  115  Changes to be committed:
+  116    (use "git rm --cached <file>..." to unstage)
+  117          new file:   file1
+  118  vivid2@vivid2-PC MINGW64 ~/Desktop/demo (master)
+  119  $ git commit -m "commit file1"
+  120  [master (root-commit) fa92348] commit file1
+  121   1 file changed, 0 insertions(+), 0 deletions(-)
+  122   create mode 100644 file1
+  123  vivid2@vivid2-PC MINGW64 ~/Desktop/demo (master)
+  124  $ git status
+  125  On branch master
+  126  nothing to commit, working tree clean
+  127  vivid2@vivid2-PC MINGW64 ~/Desktop/demo (master)
+  128  $ git push
+  129  git push -u origin master
+  130  git checkout -b main
+  131  git push -u origin main
+  132  git remote add origin https://github.com/sivasairam777/demo.git
+  133  git push -u origin main
+  134  git status
+  135  touch file77
+  136  git init
+  137  git add *
+  138  git commit -m "file77"
+  139  git push -u origin main
+  140  git push -u origin main
+  141  touch text.py
+  142  touch .gitignore
+  143  touch .gitignore
+  144  git init
+  145  git status
+  146  ls
+  147  git add *
+  148  git status
+  149  touch README.md
+  150  git init
+  151  git status
+  152  git status
+  153  ls
+  154  git status
+  155  git al
+  156  ls -al
+  157  git add *
+  158  git status
+  159  git checkout -b kalyani
+  160  git commit -m "kalyani files"
+  161  n
+  162  git remote add origin https://github.com/sivasairam777/demo1.git
+  163  git push -u origin kalayani
+  164  git log
+  165  n
+  166  git remote add origin https://github.com/sivasairam777/demo.git
+  167  git push -u origin kalayani
+  168  git checkout -b main
+  169  git branch
+  170  git status
+  171  git checkout -b naveen
+  172  git add *
+  173  git status
+  174  git commit -u origin naveen
+  175  git commit -u origin "naveen"
+  176  git commit -m origin naveen
+  177  git commit -m origin "naveen"
+  178  git hisory
+  179  history
+  180  history > commands.txt
+  181  git pull origin naveen
+  182  git checkout naveen
+  183  git checkout main
+  184  ls -al
+  185  git checkout main
+  186  git checkout kalyani
+  187  ll
+  188  git commit -m "m"
+  189  git log
+  190  git status
+  191  git checkout kalyani
+  192  git status
+  193  git log
+  194  git clone 
+  195  git clone https://github.com/sivasairam777/demo1.git
+  196  history
+  197  history > commands.txt
